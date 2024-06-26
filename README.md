@@ -2,7 +2,8 @@
 Esse site foi criado para um trabalho escolar, citando as mais diversas olimpíadas existentes.
 
 
-    Para este site ser criado foi utilizado CSS e HTML  para apresentar informações dos esportes disputados nos eventos descritos abaixo:
+    Para este site ser criado foi utilizado CSS e HTML para apresentar 
+    informações dos esportes disputados nos eventos descritos abaixo:
 
     1.  Jogos Olímpicos de Verão 2024 (Paris)
 
